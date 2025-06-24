@@ -36,3 +36,7 @@ Perfect for those learning digital design, Verilog, or building real-time image 
 ```bash
 iverilog -o sim tb_simulation.v image_read.v image_write.v mul.v parameter.v
 vvp sim
+
+OUPUT:
+![Screenshot 2025-03-22 000145](https://github.com/user-attachments/assets/4efa4e78-ff41-4c04-871d-3bc7cf2bc634)
+
